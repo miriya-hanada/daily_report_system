@@ -2,3 +2,4 @@
 # daily_report
 # daily_report
 # daily_kadai
+# daily_kadai
